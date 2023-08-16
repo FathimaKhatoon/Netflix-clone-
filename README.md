@@ -1,2 +1,6 @@
-# Netflix-clone-
- "Experience a world of entertainment with our Netflix clone! Stream your favorite movies, TV shows, and originals anytime, anywhere. Discover curated collections, personalized recommendations, and seamless user experience. Join now for endless binge-worthy content!"
+
+Link : https://deft-youtiao-ceaf4d.netlify.app/
+
+# home Page
+
+![Screenshot (73)](https://user-images.githubusercontent.com/75197506/191081813-d91a02d3-f19c-4695-8e3b-2c620251577a.png)
